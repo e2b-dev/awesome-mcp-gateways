@@ -16,7 +16,6 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 
 ## Commercial MCP Gateways
 
-- [MintMCP](https://mintmcp.com) - Enterprise MCP gateway with one-click deploys, OAuth/SSO, monitoring, and real-time security guardrails.
 - [Rube](https://rube.composio.dev) - Rube is a Model Context Protocol (MCP) server that connects your AI tools to 500+ apps like Gmail, Slack, GitHub, and Notion.
 - [Smithery](https://smithery.ai) - Your Agent's Gateway to the World.
 - [mcp-use Cloud](https://mcp-use.com) - Spin-up and aggregate MCP servers through a single endpoint and zero friction.
@@ -26,3 +25,4 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Onbox](https://onbox.ai) - Unified context for AI agents.
 - [Ventil AI](https://ventil.ai) - Go Agent-Native Across Your Business.
 - [Unified Context Layer](https://ucl.dev/) - Unified Context Layer (UCL) is a multi-tenant Model Context Protocol (MCP) server that enables AI agents, automation platforms, and applications to connect to over 1,000 SaaS tools—such as Slack, Jira, Gmail, Shopify, Notion, and more—via a single standardized /command endpoint with little to no glue code needed.
+- [MintMCP](https://mintmcp.com) - Enterprise MCP gateway with one-click deploys, OAuth/SSO, monitoring, and real-time security guardrails.
