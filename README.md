@@ -14,6 +14,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Nexus](https://github.com/grafbase/nexus) - Plug in all your MCP servers and LLMs.
 - [Obot](https://github.com/obot-platform/obot) - Open-source MCP Gateway and AI Platform.
 - [Unla](https://github.com/AmoyLab/Unla) - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
+- [agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
 
 ## Commercial MCP Gateways
 
@@ -30,3 +31,4 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Unified Context Layer](https://ucl.dev/) - Unified Context Layer (UCL) is a multi-tenant Model Context Protocol (MCP) server that enables AI agents, automation platforms, and applications to connect to over 1,000 SaaS tools—such as Slack, Jira, Gmail, Shopify, Notion, and more—via a single standardized /command endpoint with little to no glue code needed.
 - [Ventil AI](https://ventil.ai) - Go Agent-Native Across Your Business.
 - [Zuplo](https://zuplo.com/features/ai-gateway) - Zuplo's AI gateway is designed with federated self-serve for engineers, with hierarchical cost controls, guard rails, semantic caching, and more.
+- [TrueFoundry](https://www.truefoundry.com/mcp-gateway) - MCP Gateway – Secure Access to MCP Servers for Unified Integration
