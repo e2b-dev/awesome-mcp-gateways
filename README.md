@@ -1,21 +1,21 @@
 # Awesome MCP Gateways
 
-A list of awesome MCP Gateway Products. [Open a pull request](https://github.com/e2b-dev/awesome-mcp-gateways/pulls) to contribute.
+A list of awesome MCP Gateway Products. [Open a pull request](https://github.com/e2b-dev/awesome-mcp-gateways/pulls)  to contribute.
 
 ## Open-source MCP Gateways
-- [agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
-- [Docker MCP Gateway](https://github.com/docker/mcp-gateway) - Docker MCP CLI plugin / MCP Gateway.
-- [Gate22](https://github.com/aipotheosis-labs/gate22) - Open-source MCP gateway and control plane for teams to govern which tools agents can use, what they can do, and how it’s audited.
-- [hyper-mcp](https://github.com/tuananh/hyper-mcp) - A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
-- [Jetski](https://github.com/hyprmcp/jetski) - Authentication, analytics, and prompt visibility for MCP servers with zero code changes. Supports OAuth2.1, DCR, real-time logs, and client onboarding out of the box.
-- [Klavis](https://github.com/Klavis-AI/klavis) - MCP integration platforms that let AI agents use tools reliably at any scale.
-- [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) - A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.
-- [MCP Context Forge](https://github.com/IBM/mcp-context-forge) - Model Context Protocol gateway & proxy - unify REST, MCP, and A2A with federation, virtual servers, retries, security, and an optional admin UI.
-- [MetaMCP](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway.
-- [Microsoft MCP Gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for Model Context Protocol (MCP) servers, enabling scalable, session-aware routing and lifecycle management of MCP servers in Kubernetes environments.
-- [Nexus](https://github.com/grafbase/nexus) - Plug in all your MCP servers and LLMs.
-- [Obot](https://github.com/obot-platform/obot) - Open-source MCP Gateway and AI Platform.
-- [Unla](https://github.com/AmoyLab/Unla) - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
+- [agentgateway](https://github.com/agentgateway/agentgateway)  ![stars](https://img.shields.io/github/stars/agentgateway/agentgateway)  - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
+- [Docker MCP Gateway](https://github.com/docker/mcp-gateway)  ![stars](https://img.shields.io/github/stars/docker/mcp-gateway)  - Docker MCP CLI plugin / MCP Gateway.
+- [Gate22](https://github.com/aipotheosis-labs/gate22)  ![stars](https://img.shields.io/github/stars/aipotheosis-labs/gate22)  - Open-source MCP gateway and control plane for teams to govern which tools agents can use, what they can do, and how it’s audited.
+- [hyper-mcp](https://github.com/tuananh/hyper-mcp)  ![stars](https://img.shields.io/github/stars/tuananh/hyper-mcp)  - A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
+- [Jetski](https://github.com/hyprmcp/jetski)  ![stars](https://img.shields.io/github/stars/hyprmcp/jetski)  - Authentication, analytics, and prompt visibility for MCP servers with zero code changes. Supports OAuth2.1, DCR, real-time logs, and client onboarding out of the box.
+- [Klavis](https://github.com/Klavis-AI/klavis)  ![stars](https://img.shields.io/github/stars/Klavis-AI/klavis)  - MCP integration platforms that let AI agents use tools reliably at any scale.
+- [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway)  ![stars](https://img.shields.io/github/stars/lasso-security/mcp-gateway)  - A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.
+- [MCP Context Forge](https://github.com/IBM/mcp-context-forge)  ![stars](https://img.shields.io/github/stars/IBM/mcp-context-forge)  - Model Context Protocol gateway & proxy - unify REST, MCP, and A2A with federation, virtual servers, retries, security, and an optional admin UI.
+- [MetaMCP](https://github.com/metatool-ai/metamcp)  ![stars](https://img.shields.io/github/stars/metatool-ai/metamcp)  - MCP Aggregator, Orchestrator, Middleware, Gateway.
+- [Microsoft MCP Gateway](https://github.com/microsoft/mcp-gateway)  ![stars](https://img.shields.io/github/stars/microsoft/mcp-gateway)  - MCP Gateway is a reverse proxy and management layer for Model Context Protocol (MCP) servers, enabling scalable, session-aware routing and lifecycle management of MCP servers in Kubernetes environments.
+- [Nexus](https://github.com/grafbase/nexus)  ![stars](https://img.shields.io/github/stars/grafbase/nexus)  - Plug in all your MCP servers and LLMs.
+- [Obot](https://github.com/obot-platform/obot)  ![stars](https://img.shields.io/github/stars/obot-platform/obot)  - Open-source MCP Gateway and AI Platform.
+- [Unla](https://github.com/AmoyLab/Unla)  ![stars](https://img.shields.io/github/stars/AmoyLab/Unla)  - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
 
 ## Commercial MCP Gateways
 
