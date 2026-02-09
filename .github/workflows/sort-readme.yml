@@ -1,0 +1,29 @@
+name: Sort README
+
+on:
+  pull_request:
+    branches: [main]
+    paths: [README.md]
+
+permissions:
+  contents: write
+
+jobs:
+  sort:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Sort README items
+        run: python scripts/sort-readme.py
+
+      - name: Commit if changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Sort README items alphabetically"
+          git push
