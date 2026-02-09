@@ -1,7 +1,7 @@
 name: Sort README
 
 on:
-  pull_request:
+  push:
     branches: [main]
     paths: [README.md]
 
@@ -13,8 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.head_ref }}
 
       - name: Sort README items
         run: python scripts/sort-readme.py
