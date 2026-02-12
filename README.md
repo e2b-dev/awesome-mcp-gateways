@@ -11,6 +11,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Klavis](https://github.com/Klavis-AI/klavis) - MCP integration platforms that let AI agents use tools reliably at any scale.
 - [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) - A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.
 - [MCP Context Forge](https://github.com/IBM/mcp-context-forge) - Model Context Protocol gateway & proxy - unify REST, MCP, and A2A with federation, virtual servers, retries, security, and an optional admin UI.
+- [MCP Gateway](https://github.com/MikkoParkkola/mcp-gateway) - Rust-based single-port MCP multiplexer with Meta-MCP pattern for ~95% context token savings. Features OpenAPI auto-import, hot-reloadable capabilities, and circuit breakers.
 - [MCP Mesh](https://github.com/decocms/mesh) - Open-source MCP control plane that routes all MCP traffic through one governed endpoint. Features RBAC (OAuth 2.1 + API keys), encrypted token vault, runtime strategies as gateways for smart tool selection, Virtual MCPs for composing toolsets, and full OpenTelemetry observability. Multi-tenant with org scoping.
 - [mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Open-source local MCP proxy server. Routes multiple MCP servers through a single endpoint with BM25 tool filtering, activity logging, quarantine security, and web UI.
 - [MetaMCP](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway.
