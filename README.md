@@ -29,6 +29,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [E2B](https://e2b.dev/docs/mcp) - Connect to 200+ tools through the Model Context Protocol.
 - [Golf](https://golf.dev) - Deploy production-ready, official MCP servers for your company.
 - [MCP Boss](https://www.mcp-boss.com) - The MCP Management Platform for Individuals and Teams.
+- [MCP Manager](https://www.mcpmanager.ai) - The central control layer for MCP at scale, with granular access controls, end-to-end audit trails, and security guardrails.
 - [mcp-use Cloud](https://mcp-use.com) - Spin-up and aggregate MCP servers through a single endpoint and zero friction.
 - [Metorial](https://metorial.com) - Connect AI agents to external tools and data via MCP. Get enterprise-grade observability and scaling out of the box.
 - [MintMCP](https://mintmcp.com) - Enterprise MCP gateway with one-click deploys, OAuth/SSO, monitoring, and real-time security guardrails.
