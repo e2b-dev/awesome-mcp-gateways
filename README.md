@@ -23,6 +23,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 
 ## Commercial MCP Gateways
 
+- [SkillBoss](https://skillboss.co) - One API key for 100+ AI services: Claude, GPT, Gemini, DeepSeek, image/video generation, data scraping, payments, email, and more. OpenAI-compatible. Works in Claude Code, Cursor, Windsurf. [MCP Server](https://github.com/heeyo-life/skillboss-mcp)
 - [Alpic](https://alpic.ai) - Alpic's all-in-one cloud platform provides the infrastructure and tools to turn your product into an AI-native experience.
 - [Arcade](https://www.arcade.dev) - Securely connect your AI to MCPs, APIs, data, and more.
 - [Dedalus Labs](https://www.dedaluslabs.ai) - Connect any LLM to any MCP server with a single API.
