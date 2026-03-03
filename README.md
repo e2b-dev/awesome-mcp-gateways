@@ -11,6 +11,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Klavis](https://github.com/Klavis-AI/klavis) - MCP integration platforms that let AI agents use tools reliably at any scale.
 - [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) - A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.
 - [MCP Context Forge](https://github.com/IBM/mcp-context-forge) - Model Context Protocol gateway & proxy - unify REST, MCP, and A2A with federation, virtual servers, retries, security, and an optional admin UI.
+- [MCP Gateway & Registry](https://github.com/agentic-community/mcp-gateway-registry) - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.
 - [MCP Mesh](https://github.com/decocms/mesh) - Open-source MCP control plane that routes all MCP traffic through one governed endpoint. Features RBAC (OAuth 2.1 + API keys), encrypted token vault, runtime strategies as gateways for smart tool selection, Virtual MCPs for composing toolsets, and full OpenTelemetry observability. Multi-tenant with org scoping.
 - [mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Open-source local MCP proxy server. Routes multiple MCP servers through a single endpoint with BM25 tool filtering, activity logging, quarantine security, and web UI.
 - [MetaMCP](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway.
@@ -20,7 +21,6 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Open Edison](https://github.com/Edison-Watch/open-edison) - Open-source secure MCP Gateway and control panel with data exfiltration prevention, execution controls, fine-grained online configuration and visibility into agent interactions.
 - [ToolSDK MCP Registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) - Enterprise MCP Gateway with federated search, secure sandbox execution, OAuth 2.1 proxy, and unified HTTP API. Self-hosted via Docker.
 - [Unla](https://github.com/AmoyLab/Unla) - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
-- [MCP Gateway & Registry](https://github.com/agentic-community/mcp-gateway-registry) - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.
 
 ## Commercial MCP Gateways
 
