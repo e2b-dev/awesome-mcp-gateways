@@ -3,6 +3,7 @@
 A list of awesome MCP Gateway Products. [Open a pull request](https://github.com/e2b-dev/awesome-mcp-gateways/pulls) to contribute.
 
 ## Open-source MCP Gateways
+- [Agent Gateway](https://github.com/OzorOwn/agent-gateway) - Unified REST API gateway that routes requests to 39+ AI agent microservices (DeFi MCP tools, crypto wallets, code execution, monitoring) through a single endpoint with API key auth and per-service rate limiting.
 - [agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
 - [Docker MCP Gateway](https://github.com/docker/mcp-gateway) - Docker MCP CLI plugin / MCP Gateway.
 - [Gate22](https://github.com/aipotheosis-labs/gate22) - Open-source MCP gateway and control plane for teams to govern which tools agents can use, what they can do, and how it’s audited.
