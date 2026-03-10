@@ -4,6 +4,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 
 ## Open-source MCP Gateways
 - [agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
+- [BigMCP](https://github.com/BigFatDot/BigMCP) - Open-core multi-tenant MCP gateway for organizations. Centralize, govern and orchestrate MCP servers with org-level RBAC, encrypted credentials, named workflow compositions, and self-hostable deployment. Free Enterprise license for public sector.
 - [Docker MCP Gateway](https://github.com/docker/mcp-gateway) - Docker MCP CLI plugin / MCP Gateway.
 - [Gate22](https://github.com/aipotheosis-labs/gate22) - Open-source MCP gateway and control plane for teams to govern which tools agents can use, what they can do, and how it’s audited.
 - [hyper-mcp](https://github.com/tuananh/hyper-mcp) - A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
