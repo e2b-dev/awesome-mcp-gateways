@@ -23,6 +23,9 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [ToolSDK MCP Registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) - Enterprise MCP Gateway with federated search, secure sandbox execution, OAuth 2.1 proxy, and unified HTTP API. Self-hosted via Docker.
 - [Unla](https://github.com/AmoyLab/Unla) - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
 
+## MCP Servers with Built-in Memory
+- [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. Free.
+
 ## Commercial MCP Gateways
 
 - [Alpic](https://alpic.ai) - Alpic's all-in-one cloud platform provides the infrastructure and tools to turn your product into an AI-native experience.
