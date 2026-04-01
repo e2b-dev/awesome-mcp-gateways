@@ -43,6 +43,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Runlayer](https://www.runlayer.com) - The Simpler, Safer Way to Connect MCPs.
 - [Scalekit](https://www.scalekit.com/agentic-actions) - A secure tool-calling layer for agents to act on behalf of users across external tools (Gmail, Calendar, Slack, Notion, etc.) with user-consented delegation and built-in token vaulting.
 - [Smithery](https://smithery.ai) - Your Agent's Gateway to the World.
+- [ToolRouter](https://toolrouter.com) - Give your AI agent superpowers with access to 150+ tools on demand with just one account. Competitor research, video production, web search, image generation, security scanning, flight search, and more. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp` | Remote: `https://api.toolrouter.com/mcp`
 - [TrueFoundry](https://www.truefoundry.com/mcp-gateway) - MCP Gateway – Secure Access to MCP Servers for Unified Integration.
 - [TurboMCP](https://turbomcp.ai) - Connect your apps to AI on your terms.
 - [Unified Context Layer](https://ucl.dev/) - Unified Context Layer (UCL) is a multi-tenant Model Context Protocol (MCP) server that enables AI agents, automation platforms, and applications to connect to over 1,000 SaaS tools—such as Slack, Jira, Gmail, Shopify, Notion, and more—via a single standardized /command endpoint with little to no glue code needed.
