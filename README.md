@@ -3,6 +3,9 @@
 A list of awesome MCP Gateway Products. [Open a pull request](https://github.com/e2b-dev/awesome-mcp-gateways/pulls) to contribute.
 
 ## Open-source MCP Gateways
+
+200 stars and 2 contributors or more.
+
 - [agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
 - [AIRIS MCP Gateway](https://github.com/agiletec-inc/airis-mcp-gateway) - Docker-based MCP multiplexer that aggregates 60+ tools behind 7 meta-tools (find, exec, schema, suggest, route, confidence, repo-index). Reduces context tokens by 97% via progressive disclosure with auto-enable on demand, HOT/COLD server lifecycle, and circuit breaker.
 - [Docker MCP Gateway](https://github.com/docker/mcp-gateway) - Docker MCP CLI plugin / MCP Gateway.
