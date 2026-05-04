@@ -53,3 +53,5 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Ventil AI](https://ventil.ai) - Go Agent-Native Across Your Business.
 - [Webrix](https://webrix.ai) - Enterprise AI adoption infrastructure with secure MCP Gateway for connecting AI agents (Claude, Cursor, ChatGPT, Antigravity) to internal tools. Features SSO, RBAC, audit trails, and governance controls.
 - [Zuplo](https://zuplo.com/features/ai-gateway) - Zuplo's AI gateway is designed with federated self-serve for engineers, with hierarchical cost controls, guard rails, semantic caching, and more.
+
+- [EventTrader MCP Server](https://github.com/eventtrader/event-trader-mcp) — AI prediction market trading: place bets, TGE token price predictions, real-time orderbooks, AI agent cloning, due diligence scoring. Remote endpoint at `cymetica.com/.well-known/mcp.json`. [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=mcp-outreach) | [TGE Markets](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=mcp-outreach)
