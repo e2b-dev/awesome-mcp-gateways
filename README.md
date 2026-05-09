@@ -45,6 +45,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Rube](https://rube.composio.dev) - Rube is a Model Context Protocol (MCP) server that connects your AI tools to 500+ apps like Gmail, Slack, GitHub, and Notion.
 - [Runlayer](https://www.runlayer.com) - The Simpler, Safer Way to Connect MCPs.
 - [Scalekit](https://www.scalekit.com/agentic-actions) - A secure tool-calling layer for agents to act on behalf of users across external tools (Gmail, Calendar, Slack, Notion, etc.) with user-consented delegation and built-in token vaulting.
+- [Shellgate](https://shellgate.ai) - Self-hosted secure gateway for AI agents. Routes MCP tool calls through SSH tunnels with human-in-the-loop approval, credential vault, complete audit trail, organizational skills/wiki/memories, and webhook integrations.
 - [Smithery](https://smithery.ai) - Your Agent's Gateway to the World.
 - [ToolRouter](https://toolrouter.com) - Give your AI agent superpowers with access to 150+ tools on demand with just one account. Competitor research, video production, web search, image generation, security scanning, flight search, and more. One API key replaces managing dozens of provider accounts.
 - [TrueFoundry](https://www.truefoundry.com/mcp-gateway) - MCP Gateway – Secure Access to MCP Servers for Unified Integration.
