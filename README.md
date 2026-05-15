@@ -7,7 +7,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 200 stars and 2 contributors or more.
 
 - [agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
-- [authsome](https://github.com/manojbajaj95/authsome) - Local OAuth2 and API-key credential broker for AI agents. Login once via browser PKCE or device code, encrypted vault at ~/.authsome, local proxy injects credentials at request time so raw keys never enter the agent's environment. 30+ providers preconfigured (GitHub, Google, OpenAI, Linear, Slack, Notion, Resend, Stripe, …). MIT.
+- [authsome](https://github.com/agentrhq/authsome) - Local OAuth2 and API-key credential broker for AI agents. Login once via browser PKCE or device code, encrypted vault at ~/.authsome, local proxy injects credentials at request time so raw keys never enter the agent's environment. 30+ providers preconfigured (GitHub, Google, OpenAI, Linear, Slack, Notion, Resend, Stripe, …). MIT.
 - [AIRIS MCP Gateway](https://github.com/agiletec-inc/airis-mcp-gateway) - Docker-based MCP multiplexer that aggregates 60+ tools behind 7 meta-tools (find, exec, schema, suggest, route, confidence, repo-index). Reduces context tokens by 97% via progressive disclosure with auto-enable on demand, HOT/COLD server lifecycle, and circuit breaker.
 - [Docker MCP Gateway](https://github.com/docker/mcp-gateway) - Docker MCP CLI plugin / MCP Gateway.
 - [Gate22](https://github.com/aipotheosis-labs/gate22) - Open-source MCP gateway and control plane for teams to govern which tools agents can use, what they can do, and how it’s audited.
