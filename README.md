@@ -47,6 +47,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Runlayer](https://www.runlayer.com) - The Simpler, Safer Way to Connect MCPs.
 - [Scalekit](https://www.scalekit.com/agentic-actions) - A secure tool-calling layer for agents to act on behalf of users across external tools (Gmail, Calendar, Slack, Notion, etc.) with user-consented delegation and built-in token vaulting.
 - [Smithery](https://smithery.ai) - Your Agent's Gateway to the World.
+- [The STALL](https://the-stall.intuitek.ai) - 207-capability data intelligence MCP with per-call x402 micropayments. Financial markets, crypto, DeFi, options flow, macro, and real-world intelligence for AI agents — zero subscription required.
 - [ToolRouter](https://toolrouter.com) - Give your AI agent superpowers with access to 150+ tools on demand with just one account. Competitor research, video production, web search, image generation, security scanning, flight search, and more. One API key replaces managing dozens of provider accounts.
 - [TrueFoundry](https://www.truefoundry.com/mcp-gateway) - MCP Gateway – Secure Access to MCP Servers for Unified Integration.
 - [TurboMCP](https://turbomcp.ai) - Connect your apps to AI on your terms.
