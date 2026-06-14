@@ -27,6 +27,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Pomerium](https://github.com/pomerium/pomerium) - Open-source MCP gateway that secures access to your MCP servers with authentication and access policies, including per-tool controls.
 - [ToolSDK MCP Registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) - Enterprise MCP Gateway with federated search, secure sandbox execution, OAuth 2.1 proxy, and unified HTTP API. Self-hosted via Docker.
 - [Unla](https://github.com/AmoyLab/Unla) - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ## Commercial MCP Gateways
 
