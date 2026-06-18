@@ -27,7 +27,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Pomerium](https://github.com/pomerium/pomerium) - Open-source MCP gateway that secures access to your MCP servers with authentication and access policies, including per-tool controls.
 - [ToolSDK MCP Registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) - Enterprise MCP Gateway with federated search, secure sandbox execution, OAuth 2.1 proxy, and unified HTTP API. Self-hosted via Docker.
 - [Unla](https://github.com/AmoyLab/Unla) - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
-
+- [VerditNxtGen Sidecar Proxy](https://github.com/ShopFarnow/VerditNxtGen/tree/main/sdk/sidecar-proxy) — Transparent Docker sidecar that sits between any MCP gateway (IBM ContextForge, Docker MCP Gateway, Bifrost) and destination tools. Signs every request with HMAC-SHA256, logs telemetry asynchronously to the VerditNxtGen compliance ledger, and forwards traffic with zero latency overhead. Drop-in for SOC2 audit trails.
 ## Commercial MCP Gateways
 
 - [Alpic](https://alpic.ai) - Alpic's all-in-one cloud platform provides the infrastructure and tools to turn your product into an AI-native experience.
