@@ -38,6 +38,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Dedalus Labs](https://www.dedaluslabs.ai) - Connect any LLM to any MCP server with a single API.
 - [E2B](https://e2b.dev/docs/mcp) - Connect to 200+ tools through the Model Context Protocol.
 - [Golf](https://golf.dev) - Deploy production-ready, official MCP servers for your company.
+- [Magertron](https://magertron.com) - Kubernetes-native MCP orchestrator with design/run-time governance: per-tool RBAC, internal/external servers, inventory RUG, OCSF, SSO and SCIM support.
 - [MCP Boss](https://www.mcp-boss.com) - The MCP Management Platform for Individuals and Teams.
 - [MCP Manager](https://www.mcpmanager.ai) - The central control layer for MCP at scale, with granular access controls, end-to-end audit trails, and security guardrails.
 - [mcp-use Cloud](https://mcp-use.com) - Spin-up and aggregate MCP servers through a single endpoint and zero friction.
