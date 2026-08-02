@@ -44,6 +44,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [MCP Manager](https://www.mcpmanager.ai) - The central control layer for MCP at scale, with granular access controls, end-to-end audit trails, and security guardrails.
 - [mcp-use Cloud](https://mcp-use.com) - Spin-up and aggregate MCP servers through a single endpoint and zero friction.
 - [mcpgate](https://mcpgate.de) - Self-hosted MCP gateway with PII pseudonymization, two-layer policy hooks (company + user, YAML), and 22 first-party integrations plus OpenAPI / MCP-server-URL import for anything else. BSL 1.1, free for ≤5 users.
+- [MCPGatePro](https://mcpgatepro.com) - Hosted MCP servers for infrastructure teams: one URL and API key in your client config, no Docker or self-hosting. Live servers cover AWS cloud spend analysis and PostgreSQL performance diagnostics, with Kubernetes and Terraform planned.
 - [Metorial](https://metorial.com) - Connect AI agents to external tools and data via MCP. Get enterprise-grade observability and scaling out of the box.
 - [MintMCP](https://mintmcp.com) - Enterprise MCP gateway with one-click deploys, OAuth/SSO, monitoring, and real-time security guardrails.
 - [Onbox](https://onbox.ai) - Unified context for AI agents.
