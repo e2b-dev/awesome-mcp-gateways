@@ -51,6 +51,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [PolicyLayer](https://policylayer.com) - Hosted gateway for your MCP servers that applies deterministic rules to every tool call, outside the LLM reasoning loop, so your agents can only do what you allow.
 - [Rube](https://rube.composio.dev) - Rube is a Model Context Protocol (MCP) server that connects your AI tools to 500+ apps like Gmail, Slack, GitHub, and Notion.
 - [Runlayer](https://www.runlayer.com) - The Simpler, Safer Way to Connect MCPs.
+- [SandBase](https://github.com/sandbaseai/cli) - Connect AI coding agents to 2,000+ tools and 200+ models through one OAuth account and an ownership-aware local MCP bridge, using an open-source CLI.
 - [Scalekit](https://www.scalekit.com/agentic-actions) - A secure tool-calling layer for agents to act on behalf of users across external tools (Gmail, Calendar, Slack, Notion, etc.) with user-consented delegation and built-in token vaulting.
 - [Smithery](https://smithery.ai) - Your Agent's Gateway to the World.
 - [Toolport](https://toolport.app) - Local-first MCP gateway that gives every AI client one shared, governed set of servers: lazy discovery for ~90% fewer tool tokens, tool-integrity checks against rug pulls and prompt-injection, and secrets kept in your OS keychain. Team plan adds shared config and org controls.
