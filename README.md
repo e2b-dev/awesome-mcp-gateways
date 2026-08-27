@@ -29,6 +29,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Open Edison](https://github.com/Edison-Watch/open-edison) - Open-source secure MCP Gateway and control panel with data exfiltration prevention, execution controls, fine-grained online configuration and visibility into agent interactions.
 - [Pomerium](https://github.com/pomerium/pomerium) - Open-source MCP gateway that secures access to your MCP servers with authentication and access policies, including per-tool controls.
 - [ToolSDK MCP Registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) - Enterprise MCP Gateway with federated search, secure sandbox execution, OAuth 2.1 proxy, and unified HTTP API. Self-hosted via Docker.
+- [Tracefold](https://github.com/TraceFold/tracefold) - Verified reverse-execution gateway and drop-in MCP wrapper that escrows pre-commit inverses, enforces Cedar policy gates, and emits signed DSSE receipts for tool mutations.
 - [Unla](https://github.com/AmoyLab/Unla) - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
 - [Wirken](https://github.com/gebruder/wirken) - The enterprise gateway for autonomous agents. Identity management, per-channel isolation, credential vault, per-session tamper-evident audit log.
 
