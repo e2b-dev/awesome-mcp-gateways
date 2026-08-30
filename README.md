@@ -32,6 +32,12 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Unla](https://github.com/AmoyLab/Unla) - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
 - [Wirken](https://github.com/gebruder/wirken) - The enterprise gateway for autonomous agents. Identity management, per-channel isolation, credential vault, per-session tamper-evident audit log.
 
+## Related: MCP delivery evidence
+
+Not gateways. Open schema and verify libraries that gateways or CI can use as an optional promote/register check (recent signed delivery attestation). Not per-call signing.
+
+- [toa](https://github.com/Carmel-Labs-Inc/toa) - Tool Outcome Attestation (`toa/0.1`): Apache-2.0 schema and offline `toa-verify` for MCP tool delivery layers (reach, invoke, functional, shape, ...). Any emitter can sign; no vendor account required to verify.
+
 ## Commercial MCP Gateways
 
 - [Alpic](https://alpic.ai) - Alpic's all-in-one cloud platform provides the infrastructure and tools to turn your product into an AI-native experience.
