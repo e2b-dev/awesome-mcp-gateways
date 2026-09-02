@@ -13,6 +13,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [AIRIS MCP Gateway](https://github.com/agiletec-inc/airis-mcp-gateway) - Docker-based MCP multiplexer that aggregates 60+ tools behind 7 meta-tools (find, exec, schema, suggest, route, confidence, repo-index). Reduces context tokens by 97% via progressive disclosure with auto-enable on demand, HOT/COLD server lifecycle, and circuit breaker.
 - [Docker MCP Gateway](https://github.com/docker/mcp-gateway) - Docker MCP CLI plugin / MCP Gateway.
 - [Gate22](https://github.com/aipotheosis-labs/gate22) - Open-source MCP gateway and control plane for teams to govern which tools agents can use, what they can do, and how it’s audited.
+- [Helio](https://github.com/gethelio/helio) - Open-source governance proxy for MCP that sits between agents and the tools they call. Enforces policies, caps cumulative cross-tool spend across servers, routes approvals, checks evidence, and records an audit trail for every tool call, with no changes to agent code or MCP servers.
 - [hyper-mcp](https://github.com/tuananh/hyper-mcp) - A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 - [Jetski](https://github.com/hyprmcp/jetski) - Authentication, analytics, and prompt visibility for MCP servers with zero code changes. Supports OAuth2.1, DCR, real-time logs, and client onboarding out of the box.
 - [Klavis](https://github.com/Klavis-AI/klavis) - MCP integration platforms that let AI agents use tools reliably at any scale.
