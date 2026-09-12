@@ -42,6 +42,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Dedalus Labs](https://www.dedaluslabs.ai) - Connect any LLM to any MCP server with a single API.
 - [E2B](https://e2b.dev/docs/mcp?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-mcp-gateways) - Connect to 200+ tools through the Model Context Protocol.
 - [Golf](https://golf.dev) - Deploy production-ready, official MCP servers for your company.
+- [Kobel](https://kobel.app/en/) - Desktop permission gateway for Windows and macOS. Runs a local MCP server and decides, per file, what an AI assistant may do: edit, edit with backup, edit a copy, read only, or not see it at all. Also proxies other MCP servers and connected accounts behind the same approval and audit layer.
 - [KYDE Gateway](https://kyde.com) - OpenAI-compatible LLM and MCP gateway with Ed25519-signed audit ledger, DLP enforcement, and per-tool MCP policies.
 - [MCP Boss](https://www.mcp-boss.com) - The MCP Management Platform for Individuals and Teams.
 - [MCP Manager](https://www.mcpmanager.ai) - The central control layer for MCP at scale, with granular access controls, end-to-end audit trails, and security guardrails.
