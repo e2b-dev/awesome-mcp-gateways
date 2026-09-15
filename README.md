@@ -64,3 +64,4 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Ventil AI](https://ventil.ai) - Go Agent-Native Across Your Business.
 - [Webrix](https://webrix.ai) - Enterprise AI adoption infrastructure with secure MCP Gateway for connecting AI agents (Claude, Cursor, ChatGPT, Antigravity) to internal tools. Features SSO, RBAC, audit trails, and governance controls.
 - [Zuplo](https://zuplo.com/features/ai-gateway) - Zuplo's AI gateway is designed with federated self-serve for engineers, with hierarchical cost controls, guard rails, semantic caching, and more.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
