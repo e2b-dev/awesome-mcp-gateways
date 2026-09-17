@@ -15,7 +15,6 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Docker MCP Gateway](https://github.com/docker/mcp-gateway) - Docker MCP CLI plugin / MCP Gateway.
 - [FLUJO](https://github.com/mario-andreschak/FLUJO) - Local-first MCP client and visual agent builder that re-exposes configured MCP servers to other clients over Streamable HTTP, with centralized server configuration, encrypted credentials, and a web UI for inspecting tools, resources, and prompts.
 - [Gate22](https://github.com/aipotheosis-labs/gate22) - Open-source MCP gateway and control plane for teams to govern which tools agents can use, what they can do, and how it’s audited.
-- [Gram](https://github.com/speakeasy-api/gram) - Open-source AI control plane for connecting agents to MCPs with policy enforcement, granular access control, and observability.
 - [hyper-mcp](https://github.com/tuananh/hyper-mcp) - A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 - [Jetski](https://github.com/hyprmcp/jetski) - Authentication, analytics, and prompt visibility for MCP servers with zero code changes. Supports OAuth2.1, DCR, real-time logs, and client onboarding out of the box.
 - [Klavis](https://github.com/Klavis-AI/klavis) - MCP integration platforms that let AI agents use tools reliably at any scale.
