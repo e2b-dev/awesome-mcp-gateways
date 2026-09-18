@@ -40,6 +40,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Arcade](https://www.arcade.dev) - Securely connect your AI to MCPs, APIs, data, and more.
 - [Dedalus Labs](https://www.dedaluslabs.ai) - Connect any LLM to any MCP server with a single API.
 - [E2B](https://e2b.dev/docs/mcp?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-mcp-gateways) - Connect to 200+ tools through the Model Context Protocol.
+- [Elaichi](https://elaichi.ai) - Governed AI agents for the software your company already runs: 400+ connectors behind one org-wide endpoint, where every call resolves against the caller's own access.
 - [Golf](https://golf.dev) - Deploy production-ready, official MCP servers for your company.
 - [KYDE Gateway](https://kyde.com) - OpenAI-compatible LLM and MCP gateway with Ed25519-signed audit ledger, DLP enforcement, and per-tool MCP policies.
 - [MCP Boss](https://www.mcp-boss.com) - The MCP Management Platform for Individuals and Teams.
