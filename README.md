@@ -37,6 +37,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 ## Commercial MCP Gateways
 
 - [Alpic](https://alpic.ai) - Alpic's all-in-one cloud platform provides the infrastructure and tools to turn your product into an AI-native experience.
+- [API.market](https://api.market/api/mcp/gateway) - Hosted Streamable HTTP gateway connecting AI agents to 580+ APIs through five discovery, execution, usage, and subscription tools, with OAuth or API-key authentication.
 - [Arcade](https://www.arcade.dev) - Securely connect your AI to MCPs, APIs, data, and more.
 - [Dedalus Labs](https://www.dedaluslabs.ai) - Connect any LLM to any MCP server with a single API.
 - [E2B](https://e2b.dev/docs/mcp?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-mcp-gateways) - Connect to 200+ tools through the Model Context Protocol.
