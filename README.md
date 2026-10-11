@@ -49,6 +49,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Metorial](https://metorial.com) - Connect AI agents to external tools and data via MCP. Get enterprise-grade observability and scaling out of the box.
 - [MintMCP](https://mintmcp.com) - Enterprise MCP gateway with one-click deploys, OAuth/SSO, monitoring, and real-time security guardrails.
 - [Onbox](https://onbox.ai) - Unified context for AI agents.
+- [OpenWork](https://openworklabs.com/connect) - Manage your team's MCPs, skills, and AI models all in one place. One OAuth URL brings them into Claude Code, Codex, Cursor, OpenCode, and any MCP client, with per-team access and tool controls.
 - [Peta](https://peta.io) - 1Password for AI Agents : a self-hosted MCP vault + gateway (with HITL approvals)
 - [PolicyLayer](https://policylayer.com) - Hosted gateway for your MCP servers that applies deterministic rules to every tool call, outside the LLM reasoning loop, so your agents can only do what you allow.
 - [Rube](https://rube.composio.dev) - Rube is a Model Context Protocol (MCP) server that connects your AI tools to 500+ apps like Gmail, Slack, GitHub, and Notion.
