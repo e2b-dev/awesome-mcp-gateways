@@ -43,6 +43,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [OpenWork](https://openworklabs.com/connect) - Manage your team's MCPs, skills, and AI models all in one place. One OAuth URL brings them into Claude Code, Codex, Cursor, OpenCode, and any MCP client, with per-team access and tool controls.
 - [Peta](https://peta.io) - 1Password for AI Agents : a self-hosted MCP vault + gateway (with HITL approvals)
 - [Runlayer](https://www.runlayer.com) - The Simpler, Safer Way to Connect MCPs.
+- [Scalekit](https://www.scalekit.com/agentkit) - A secure tool-calling layer for agents to act on behalf of users across external tools (Gmail, Calendar, Slack, Notion, etc.) with user-consented delegation and built-in token vaulting.
 - [Smithery](https://smithery.ai) - Your Agent's Gateway to the World.
 - [Speakeasy](https://www.speakeasy.com/product/ai-control-plane) - Enterprise AI control plane governing access, policy, and auditability across agents, MCP servers, and Skills.
 - [Toolport](https://toolport.app) - Local-first MCP gateway that gives every AI client one shared, governed set of servers: lazy discovery for ~90% fewer tool tokens, tool-integrity checks against rug pulls and prompt-injection, and secrets kept in your OS keychain. Team plan adds shared config and org controls.
