@@ -46,6 +46,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Scalekit](https://www.scalekit.com/agentkit) - Scalekit AgentKit gives each user a per-user OAuth login and stores the tokens in a token vault, so agents call tools as that user.
 - [Smithery](https://smithery.ai) - Your Agent's Gateway to the World.
 - [Speakeasy](https://www.speakeasy.com/product/ai-control-plane) - Enterprise AI control plane governing access, policy, and auditability across agents, MCP servers, and Skills.
+- [Tempr](https://temprhq.io/mcp-governance) - AI gateway that also governs MCP: one OAuth connector URL brings a team's remote MCP servers into Claude, ChatGPT and Claude Code, with stored credentials, Tool Packs per person, guardrails on tool arguments and results, and a request log.
 - [Toolport](https://toolport.app) - Local-first MCP gateway that gives every AI client one shared, governed set of servers: lazy discovery for ~90% fewer tool tokens, tool-integrity checks against rug pulls and prompt-injection, and secrets kept in your OS keychain. Team plan adds shared config and org controls.
 - [ToolRouter](https://toolrouter.com) - Give your AI agent superpowers with access to 150+ tools on demand with just one account. Competitor research, video production, web search, image generation, security scanning, flight search, and more. One API key replaces managing dozens of provider accounts.
 - [TrueFoundry](https://www.truefoundry.com/mcp-gateway) - MCP Gateway – Secure Access to MCP Servers for Unified Integration.
