@@ -33,6 +33,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Composio MCP Gateway](https://composio.dev/mcp-gateway) - The MCP gateway built for enterprise AI adoption. 1,500+ managed integrations, production-grade execution, and the governance to roll AI out to every team safely.
 - [E2B](https://e2b.dev/docs/mcp?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-mcp-gateways) - Connect to 200+ tools through the Model Context Protocol.
 - [Golf](https://golf.dev) - Deploy production-ready, official MCP servers for your company.
+- [JanuaPort](https://januaport.ai) - The self-hosted governance layer between your AI agents and your business systems, on your rules. One Docker container with credential vault, deny-by-default permissions, audit log and deterministic pseudonymization.
 - [KYDE Gateway](https://kyde.com) - OpenAI-compatible LLM and MCP gateway with Ed25519-signed audit ledger, DLP enforcement, and per-tool MCP policies.
 - [MCP Boss](https://www.mcp-boss.com) - The MCP Management Platform for Individuals and Teams.
 - [MCP Manager](https://www.mcpmanager.ai) - The central control layer for MCP at scale, with granular access controls, end-to-end audit trails, and security guardrails.
