@@ -40,6 +40,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [mcpgate](https://mcpgate.de) - Self-hosted MCP gateway with PII pseudonymization, two-layer policy hooks (company + user, YAML), and 22 first-party integrations plus OpenAPI / MCP-server-URL import for anything else. BSL 1.1, free for ≤5 users.
 - [Metorial](https://metorial.com) - Connect AI agents to external tools and data via MCP. Get enterprise-grade observability and scaling out of the box.
 - [MintMCP](https://mintmcp.com) - Enterprise MCP gateway with one-click deploys, OAuth/SSO, monitoring, and real-time security guardrails.
+- [Odile Gate](https://gate.odilelabs.com) - Hosted API gateway and MCP server for AI agents and AI-built apps: a key per app, an allow-list of calls, a loop breaker, held approvals on risky writes and an audit log of every call. Free for 3 apps and 10,000 calls a month; Pro $29 a month.
 - [OpenWork](https://openworklabs.com/connect) - Manage your team's MCPs, skills, and AI models all in one place. One OAuth URL brings them into Claude Code, Codex, Cursor, OpenCode, and any MCP client, with per-team access and tool controls.
 - [Peta](https://peta.io) - 1Password for AI Agents : a self-hosted MCP vault + gateway (with HITL approvals)
 - [Runlayer](https://www.runlayer.com) - The Simpler, Safer Way to Connect MCPs.
