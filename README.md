@@ -10,6 +10,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 200 stars and 2 contributors or more.
 
 - [agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
+- [AnythingMCP](https://github.com/HelpCode-ai/anythingmcp) - Self-hosted MCP gateway that also generates the MCP servers: turns REST/OpenAPI, SOAP, GraphQL, OData and SQL systems into tools, with 690+ ready connectors (SAP, Odoo, Shopware…), File Search over company file servers, company memory and AI skills, per-tool RBAC, SSO/SCIM and an audit log. AGPL-3.0.
 - [Bifrost](https://github.com/maximhq/bifrost) - Open-source AI gateway with MCP support, provider routing, automatic failover, load balancing, and observability.
 - [Docker MCP Gateway](https://github.com/docker/mcp-gateway) - Docker MCP CLI plugin / MCP Gateway.
 - [FLUJO](https://github.com/mario-andreschak/FLUJO) - Local-first MCP client and visual agent builder that re-exposes configured MCP servers to other clients over Streamable HTTP, with centralized server configuration, encrypted credentials, and a web UI for inspecting tools, resources, and prompts.
