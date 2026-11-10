@@ -23,6 +23,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Microsoft MCP Gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for Model Context Protocol (MCP) servers, enabling scalable, session-aware routing and lifecycle management of MCP servers in Kubernetes environments.
 - [Nexus](https://github.com/Nexus-Router/nexus) - Plug in all your MCP servers and LLMs.
 - [Obot](https://github.com/obot-platform/obot) - Open-source MCP Gateway and AI Platform.
+- [OpenProxyAI](https://github.com/Rayyan-Oumlil/OpenProxyAI) - Open-source LLM gateway with an MCP endpoint that pins tool definitions and refuses tools changed after approval.
 - [Pomerium](https://github.com/pomerium/pomerium) - Open-source MCP gateway that secures access to your MCP servers with authentication and access policies, including per-tool controls.
 - [Unla](https://github.com/AmoyLab/Unla) - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
 
