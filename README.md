@@ -24,6 +24,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Nexus](https://github.com/Nexus-Router/nexus) - Plug in all your MCP servers and LLMs.
 - [Obot](https://github.com/obot-platform/obot) - Open-source MCP Gateway and AI Platform.
 - [Pomerium](https://github.com/pomerium/pomerium) - Open-source MCP gateway that secures access to your MCP servers with authentication and access policies, including per-tool controls.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Local-first MCP bridge that connects MCP clients to a self-hosted AI agent runtime, with persistent sessions, sandboxed tools, memory, credentials, audit logs, and replay.
 - [Unla](https://github.com/AmoyLab/Unla) - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
 
 ## Commercial MCP Gateways
