@@ -44,6 +44,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Peta](https://peta.io) - 1Password for AI Agents : a self-hosted MCP vault + gateway (with HITL approvals)
 - [Runlayer](https://www.runlayer.com) - The Simpler, Safer Way to Connect MCPs.
 - [Scalekit](https://www.scalekit.com/agentkit) - Scalekit AgentKit gives each user a per-user OAuth login and stores the tokens in a token vault, so agents call tools as that user.
+- [Scrapewise](https://scrapewise.ai/mcp) - Remote MCP server that scrapes, cleans and matches product and price data from any website.
 - [Smithery](https://smithery.ai) - Your Agent's Gateway to the World.
 - [Speakeasy](https://www.speakeasy.com/product/ai-control-plane) - Enterprise AI control plane governing access, policy, and auditability across agents, MCP servers, and Skills.
 - [Toolport](https://toolport.app) - Local-first MCP gateway that gives every AI client one shared, governed set of servers: lazy discovery for ~90% fewer tool tokens, tool-integrity checks against rug pulls and prompt-injection, and secrets kept in your OS keychain. Team plan adds shared config and org controls.
