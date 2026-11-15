@@ -26,6 +26,8 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Pomerium](https://github.com/pomerium/pomerium) - Open-source MCP gateway that secures access to your MCP servers with authentication and access policies, including per-tool controls.
 - [Unla](https://github.com/AmoyLab/Unla) - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Hosted Streamable HTTP MCP server with OAuth 2.1 + DCR for US & BC independent live-music venue discovery ([Server Card](https://nostairsplease.com/.well-known/mcp/server-card.json)).
+
 ## Commercial MCP Gateways
 
 - [Alpic](https://alpic.ai) - Alpic's all-in-one cloud platform provides the infrastructure and tools to turn your product into an AI-native experience.
