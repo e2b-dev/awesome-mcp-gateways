@@ -28,6 +28,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 
 ## Commercial MCP Gateways
 
+- [Aident Loadout](https://aident.ai) - Capability layer / remote MCP gateway: connect any AI agent to 1,000+ apps and 400+ Skills through one setup, with Vault-protected credentials, one balance, and full audit.
 - [Alpic](https://alpic.ai) - Alpic's all-in-one cloud platform provides the infrastructure and tools to turn your product into an AI-native experience.
 - [Arcade](https://www.arcade.dev) - Securely connect your AI to MCPs, APIs, data, and more.
 - [Composio MCP Gateway](https://composio.dev/mcp-gateway) - The MCP gateway built for enterprise AI adoption. 1,500+ managed integrations, production-grade execution, and the governance to roll AI out to every team safely.
