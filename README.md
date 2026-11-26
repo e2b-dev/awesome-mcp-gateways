@@ -11,6 +11,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 
 - [agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
 - [Bifrost](https://github.com/maximhq/bifrost) - Open-source AI gateway with MCP support, provider routing, automatic failover, load balancing, and observability.
+- [Coral](https://github.com/withcoral/coral) - Coral is an open-source, self-hosted MCP gateway that gives AI agents precise permissions and reusable custom tools.
 - [Docker MCP Gateway](https://github.com/docker/mcp-gateway) - Docker MCP CLI plugin / MCP Gateway.
 - [FLUJO](https://github.com/mario-andreschak/FLUJO) - Local-first MCP client and visual agent builder that re-exposes configured MCP servers to other clients over Streamable HTTP, with centralized server configuration, encrypted credentials, and a web UI for inspecting tools, resources, and prompts.
 - [Klavis](https://github.com/Klavis-AI/klavis) - MCP integration platforms that let AI agents use tools reliably at any scale.
